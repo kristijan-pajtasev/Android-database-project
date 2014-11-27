@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_padding">10dp</dimen>
+    <dimen name="list_font_size">16dp</dimen>
+    <dimen name="list_row_height">32dp</dimen>
+</resources>

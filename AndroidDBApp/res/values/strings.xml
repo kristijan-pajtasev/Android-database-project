@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidDBActivity</string>
+    <string name="message_placeholder">Enter message here</string>
+    <string name="add_new_message_button">Add New Message</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="add_button_message_text">Add Message</string>
+    <string name="update_button_message_text">Update Message</string>
+    <string name="delete_button_message_text">Delete Message</string>
+</resources>

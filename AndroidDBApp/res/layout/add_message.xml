@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/main_activity_padding">
+    
+    <EditText
+        android:id="@+id/newMessageEditText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:lines="5"
+        android:gravity="top|left"
+        android:layout_marginBottom="10pt"/>
+    
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_button_message_text"
+        android:onClick="addMessage"
+        />
+    
+</LinearLayout>
